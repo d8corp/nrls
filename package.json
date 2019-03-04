@@ -1,0 +1,26 @@
+{
+  "name": "nrls",
+  "version": "1.0.0",
+  "description": "navigation radar",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d8corp/nrls.git"
+  },
+  "keywords": [
+    "navigation",
+    "radar"
+  ],
+  "author": "deight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d8corp/nrls/issues"
+  },
+  "homepage": "https://github.com/d8corp/nrls#readme"
+}
